@@ -1,0 +1,1 @@
+const myConstVariable = 5;
