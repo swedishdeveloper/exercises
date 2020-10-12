@@ -1,0 +1,1 @@
+const myString = "My Cool String";
