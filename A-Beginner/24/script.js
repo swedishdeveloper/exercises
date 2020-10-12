@@ -1,5 +1,5 @@
 console.log(isAllCaps("TEST")); //returns true
-console.log(isAllCaps("Test")); //returns false
+console.log(isAllCaps("test")); //returns false
 
 function isAllCaps(text) {
     for (let i = 0; i < text.length; i++) {
